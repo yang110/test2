@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  HWWeiBo
+//
+//  Created by Mac on 15/8/19.
+//  Copyright (c) 2015年 杨梦佳. All rights reserved.
+//
+
+#ifndef HWWeiBo_PrefixHeader_pch
+#define HWWeiBo_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <Foundation/Foundation.h>
+
+#import <UIKit/UIKit.h>
+#import "Common.h"
+#import "UIViewExt.h"
+
+#endif
